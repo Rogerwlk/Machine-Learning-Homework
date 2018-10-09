@@ -1,0 +1,10 @@
+0 closest to 0 with distance 1046.5954328201515
+1 closest to 1 with distance 489.67948701165744
+2 closest to 2 with distance 1380.877257398354
+3 closest to 5 with distance 1832.6649993929605*
+4 closest to 4 with distance 1356.8809822530493
+5 closest to 5 with distance 1066.3676664265472
+6 closest to 6 with distance 1446.5113203843239
+7 closest to 7 with distance 863.5010133172977
+8 closest to 8 with distance 1593.7775879965184
+9 closest to 9 with distance 910.5767403135224
