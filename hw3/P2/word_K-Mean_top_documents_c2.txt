@@ -1,0 +1,24 @@
+number of clusters:2
+
+"Positional Syntenic Cloning and Functional Characterization of the Mammalian Circadian Mutation tau"
+"The Genome Sequence of Drosophila melanogaster"
+"Noxa, a BH3-Only Member of the Bcl-2 Family and Candidate Mediator of p53-Induced Apoptosis"
+"Regulated Cleavage of a Contact-Mediated Axon Repellent"
+"An Oral Vaccine against NMDAR1 with Efficacy in Experimental Stroke and Epilepsy"
+"Central Role for G Protein-Coupled Phosphoinositide 3-Kinase g in Inflammation"
+"Signaling and Circuitry of Multiple MAPK Pathways Revealed by a Matrix of Global Gene Expression Profiles"
+"Kinesin Superfamily Motor Protein KIF17 and mLin-10 in NMDA Receptor-Containing Vesicle Transport"
+"Crystal Structure of the Ribonucleoprotein Core of the Signal Recognition Particle"
+"Role of the Mouse ank Gene in Control of Tissue Calcification and Arthritis"
+
+"Ground Zero: AIDS Research in Africa"
+"Flushing out Nasty Viruses in the Balkans"
+"National Academy of Sciences Elects New Members"
+"A New Breed of Scientist-Advocate Emerges"
+"Science Survives in Breakthrough States"
+"NIH, under Pressure, Boosts Minority Health Research"
+"Bastions of Tradition Adapt to Alternative Medicine"
+"Soft Money's Hard Realities"
+"Heretical Idea Faces Its Sternest Test"
+"Soaking up Carbon in Forests and Fields"
+

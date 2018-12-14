@@ -1,0 +1,27 @@
+number of clusters:2
+
+"Requirement of NAD and SIR2 for Life-Span Extension by Calorie Restriction in Saccharomyces Cerevisiae"
+"Suppression of Mutations in Mitochondrial DNA by tRNAs Imported from the Cytoplasm"
+"Distinct Classes of Yeast Promoters Revealed by Differential TAF Recruitment"
+"Efficient Initiation of HCV RNA Replication in Cell Culture"
+"Ubiquitination: More Than Two to Tango"
+"New Insights into an Old Modification"
+"Negative Regulation of the SHATTERPROOF Genes by FRUITFULL during Arabidopsis Fruit Development"
+"T Cell-Independent Rescue of B Lymphocytes from Peripheral Immune Tolerance"
+"Reduced Food Intake and Body Weight in Mice Treated with Fatty Acid Synthase Inhibitors"
+"Patterning of the Zebrafish Retina by a Wave of Sonic Hedgehog Activity"
+"Inositol Phosphates in the Nucleus"
+
+"Algorithmic Gladiators Vie for Digital Glory"
+"Reopening the Darkest Chapter in German Science"
+"Heretical Idea Faces Its Sternest Test"
+"Information Technology Takes a Different Tack"
+"Corrections and Clarifications: A Short Fe-Fe Distance in Peroxodiferric Ferritin: Control of Fe Substrate versus Cofactor Decay?"
+"Corrections and Clarifications: Charon's First Detailed Spectra Hold Many Surprises"
+"Corrections and Clarifications: Unearthing Monuments of the Yarmukians"
+"Archaeology in the Holy Land"
+"National Academy of Sciences Elects New Members"
+"Movement Patterns in Spoken Language"
+"Divining Diet and Disease from DNA"
+
+

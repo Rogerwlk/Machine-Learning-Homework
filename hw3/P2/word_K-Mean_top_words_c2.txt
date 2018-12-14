@@ -1,0 +1,27 @@
+number of clusters:2
+
+www
+biophys
+tris
+glu
+polyacrylamide
+ala
+wildtype
+homology
+saline
+visualized
+phosphorylated
+
+lcts
+aptamers
+neas
+dnag
+ag7
+trxr
+nompc
+proteorhodopsin
+rory
+doxy
+autophagy
+
+

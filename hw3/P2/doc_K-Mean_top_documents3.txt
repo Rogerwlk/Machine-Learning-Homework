@@ -1,0 +1,40 @@
+number of clusters:3
+
+"The Formation of Chondrules at High Gas Pressures in the Solar Nebula"
+"Population Dynamical Consequences of Climate Change for a Small Temperate Songbird"
+"Nitric Acid Trihydrate (NAT) in Polar Stratospheric Clouds"
+"Subducted Seamount Imaged in the Rupture Zone of the 1946 Nankaido Earthquake"
+"A Monoclinic Post-Stishovite Polymorph of Silica in the Shergotty Meteorite"
+"Synthesis and Characterization of Helical Multi-Shell Gold Nanowires"
+"Crossing the Hopf Bifurcation in a Live Predator-Prey System"
+"Earth's Enigmatic Interface"
+"Ambipolar Pentacene Field-Effect Transistors and Inverters"
+"Reconstruction of the Amazon Basin Effective Moisture Availability over the past 14,000 Years"
+"A Stable Bicyclic Compound with Two Si=Si Double Bonds"
+
+"Algorithmic Gladiators Vie for Digital Glory"
+"Reopening the Darkest Chapter in German Science"
+"Information Technology Takes a Different Tack"
+"National Academy of Sciences Elects New Members"
+"Archaeology in the Holy Land"
+"Heretical Idea Faces Its Sternest Test"
+"Corrections and Clarifications: A Short Fe-Fe Distance in Peroxodiferric Ferritin: Control of Fe Substrate versus Cofactor Decay?"
+"Corrections and Clarifications: Charon's First Detailed Spectra Hold Many Surprises"
+"Corrections and Clarifications: Unearthing Monuments of the Yarmukians"
+"Divining Diet and Disease from DNA"
+"Movement Patterns in Spoken Language"
+
+"Requirement of NAD and SIR2 for Life-Span Extension by Calorie Restriction in Saccharomyces Cerevisiae"
+"Suppression of Mutations in Mitochondrial DNA by tRNAs Imported from the Cytoplasm"
+"Distinct Classes of Yeast Promoters Revealed by Differential TAF Recruitment"
+"Efficient Initiation of HCV RNA Replication in Cell Culture"
+"Ubiquitination: More Than Two to Tango"
+"Negative Regulation of the SHATTERPROOF Genes by FRUITFULL during Arabidopsis Fruit Development"
+"T Cell-Independent Rescue of B Lymphocytes from Peripheral Immune Tolerance"
+"Reduced Food Intake and Body Weight in Mice Treated with Fatty Acid Synthase Inhibitors"
+"Patterning of the Zebrafish Retina by a Wave of Sonic Hedgehog Activity"
+"Active Remodeling of Somatic Nuclei in Egg Cytoplasm by the Nucleosomal ATPase ISWI"
+"Coupling of Stress in the ER to Activation of JNK Protein Kinases by Transmembrane Protein Kinase IRE1"
+
+
+

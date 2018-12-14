@@ -1,0 +1,5 @@
+Download training and test data from: https://www.kaggle.com/c/cs5785-fall-2018-final/data
+Create a new folder called "data" and put these data inside it.
+
+Download Google word2vec file from: https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
+Put this file inside "preprocessing" folder.
